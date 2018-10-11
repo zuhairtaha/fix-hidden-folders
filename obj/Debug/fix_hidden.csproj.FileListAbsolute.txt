@@ -1,0 +1,11 @@
+c:\users\net\documents\visual studio 2013\Projects\fix_hidden\fix_hidden\bin\Debug\fix_hidden.exe.config
+c:\users\net\documents\visual studio 2013\Projects\fix_hidden\fix_hidden\bin\Debug\fix_hidden.exe
+c:\users\net\documents\visual studio 2013\Projects\fix_hidden\fix_hidden\bin\Debug\fix_hidden.pdb
+c:\users\net\documents\visual studio 2013\Projects\fix_hidden\fix_hidden\obj\Debug\fix_hidden.Form1.resources
+c:\users\net\documents\visual studio 2013\Projects\fix_hidden\fix_hidden\obj\Debug\fix_hidden.Properties.Resources.resources
+c:\users\net\documents\visual studio 2013\Projects\fix_hidden\fix_hidden\obj\Debug\fix_hidden.csproj.GenerateResource.Cache
+c:\users\net\documents\visual studio 2013\Projects\fix_hidden\fix_hidden\obj\Debug\fix_hidden.exe
+c:\users\net\documents\visual studio 2013\Projects\fix_hidden\fix_hidden\obj\Debug\fix_hidden.pdb
+D:\zuher\Projects -\fix_hidden\fix_hidden\bin\Debug\fix_hidden.exe.config
+D:\zuher\Projects -\fix_hidden\fix_hidden\obj\Debug\fix_hidden.exe
+D:\zuher\Projects -\fix_hidden\fix_hidden\obj\Debug\fix_hidden.pdb
